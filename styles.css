@@ -28,10 +28,13 @@ section {
 	padding: 10px;
 
 }
+#block{
+	height:50%;	
+}
 iframe{
 	disaply:block;
 	position:absolute;
-	right:10%;
+	left:5%;
 }
 
 footer {
