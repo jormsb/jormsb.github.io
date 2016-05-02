@@ -10,10 +10,11 @@ header {
 }
 twitter-timeline{
 position:absolute;
-margin-left:100%;
+	align:right;
 }
 iframe{
-	margin-left:10%;
+
+	align:center;
 }
 main {
 
