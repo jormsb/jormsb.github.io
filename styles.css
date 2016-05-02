@@ -45,7 +45,8 @@ ul {
 
 li {
 	float: left;
-	padding: 10px;
+	margin-left:25%;
+	padding-left: 10px;
 	border-right:1px solid #bbb;
 }
 
