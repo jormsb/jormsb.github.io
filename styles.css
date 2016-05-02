@@ -3,11 +3,7 @@ html{
 	background-color:black;	
 }
 header {
-	text-align:left;
-	background-color:#f1f1f1;
-	height:auto;
-	position:relative;
-	padding-left:20%;
+
 }
 #title{
 	font-size:72px;
