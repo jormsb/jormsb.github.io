@@ -1,19 +1,31 @@
 @CHARSET "UTF-8";
 
-header{
-	height:15%;
-	position:relative;
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
 }
-#title{
-	font-size: 72px;
-	text-align: center;
-	width:50%;
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
-
-body{
-background-color:#c9c9c9;
+section {
+    width:350px;
+    float:left;
+    padding:10px; 
 }
-
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
 ul {
 	list-style-type: none;
 	margin-top: 15%;
@@ -22,7 +34,6 @@ ul {
 	height: auto;
 	overflow: hidden;
 }
-
 li a { 
     float: left;
     color: #000;
@@ -30,12 +41,10 @@ li a {
     text-decoration: none;
     margin-left:5%;
 }
-
 li a.active {
     background-color: #4CAF50;
     color: white;
 }
-
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
