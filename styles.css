@@ -36,7 +36,7 @@ footer {
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-left: 10px;
     overflow: hidden;
     border: 1px solid #e7e7e7;
     background-color: #f3f3f3;
@@ -44,7 +44,7 @@ ul {
 
 li {
     float: left;
-    margin-let:40%;
+
 }
 
 li a {
