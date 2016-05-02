@@ -3,12 +3,16 @@
 header {
 	text-align:center;
 	background-color:#f1f1f1;
-	height:5%;
+	height:auto;
 	position:relative;
 	padding:0;
 }
 #title{
 	font-size:72px;
+}
+.twitter-timeline{
+position:absolute;
+right:0;
 }
 nav {
 }
