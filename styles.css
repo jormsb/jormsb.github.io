@@ -4,7 +4,7 @@ body, h1 {
 	font-family: "helvetica neue", helvetica, "lucinda sans unicode", "sans serif";
 	font-weight: normal;
 	color: #333;
-	padding: 5%;
+	padding: 2%;
 	border: 0;
 	margin: 0;
 	font-size: 12px;
@@ -23,6 +23,9 @@ header {
 }
 nav 	{
 	position:relative;
+}
+section {
+	padding: 10px;
 
 }
 
