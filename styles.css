@@ -12,7 +12,10 @@ header {
 }
 twitter-timeline{
 position:fixed;
-right:0;
+margin-left:50%;
+}
+iframe{
+	margin-left:50%;
 }
 main {
 	background-color:black;
