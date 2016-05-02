@@ -35,8 +35,8 @@ section {
 #title{
 	font-size: 72px;
 	float:left;
-	padding-left:40px;
-	padding:5px;
+	marigin-left:10%;
+	padding-top:20px;
 }
 #block{
 	height:1000px;
