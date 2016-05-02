@@ -2,26 +2,10 @@
 html{
 	background-color:black;	
 }
-header {
-
-}
-#title{
-	font-size:72px;
-}
 twitter-timeline{
 position:absolute;
 right:0;
 }
-iframe{
-position:absolute;
-	align:center;
-}
-main {
-
-}
-section {
-}
-
 ul {
 	list-style-type: none;
 	padding: 0;
