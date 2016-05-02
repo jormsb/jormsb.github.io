@@ -34,7 +34,7 @@ footer {
 	height:60px; 
 	background:#d1e0e1;
 	bottom:0;
-
+	position: absolute;
 }
 #skyNews{
 	position: absolute;
