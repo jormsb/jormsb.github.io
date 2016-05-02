@@ -38,7 +38,7 @@ section {
 }
 
 iframe{
-	disaply:block;
+	disaply:inline-block;
 	position:absolute;
 	left:5%;
 }
