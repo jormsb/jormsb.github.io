@@ -30,7 +30,8 @@ section {
 }
 iframe{
 	disaply:block;
-	align:center;
+	position:absolute;
+	right:0;
 }
 
 footer {
