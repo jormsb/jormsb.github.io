@@ -1,31 +1,13 @@
 @CHARSET "UTF-8";
 
 header {
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding:5px;
+
 }
 nav {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px; 
 }
 section {
-    width:350px;
-    float:left;
-    padding:10px; 
 }
-footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px; 
-}
+
 ul {
 	list-style-type: none;
 	margin-top: 15%;
@@ -48,4 +30,7 @@ li a.active {
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+}
+footer {
+
 }
