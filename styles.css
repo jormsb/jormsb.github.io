@@ -19,6 +19,7 @@ header {
 	text-align:center;
 	line-height: 80px;
 	position:relative;
+	bottom:0;
 }
 nav 	{
 	position:relative;
