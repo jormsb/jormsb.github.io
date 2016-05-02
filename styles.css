@@ -41,7 +41,7 @@ ul {
     padding: 0;
     width: 100%;
     background-color: #f1f1f1;
-	position: relative;
+	position: fixed;
     height: auto;
     overflow: auto;
 	display: inline-block;
@@ -49,7 +49,7 @@ ul {
 }
 /*menu spacing/styling*/
 li a { 
-    width: 100%;
+
 	float: left;
 
     color: #000;
