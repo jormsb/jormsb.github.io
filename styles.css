@@ -1,15 +1,18 @@
 @CHARSET "UTF-8";
 
 header{
-	width:50%;	
+	
+	position:relative;
 }
 #title{
 font-size: 72px;
 text-align: center;
+position:absolute;
+	width:50%;
 }
 
 body{
-background-color:e6e6e6;
+background-color:#c9c9c9;
 }
 
 ul {
