@@ -46,7 +46,7 @@ li {
 	float: left;
 	margin-left:25%;
 	padding-left: 10px;
-	border-right:1px solid #bbb;
+
 }
 
 li a:hover:not(.active) {
