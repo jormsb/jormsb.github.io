@@ -28,6 +28,9 @@ section {
 	padding: 10px;
 
 }
+iframe{
+	disaply:block;
+}
 
 footer {
 	width:100%;
