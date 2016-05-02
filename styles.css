@@ -32,7 +32,9 @@ section {
 	padding: 10px;
 
 }
-
+#title{
+	font-size: 72px;	
+}
 #block{
 	height:1000px;
 	width:100%;
