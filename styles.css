@@ -1,11 +1,11 @@
 @CHARSET "UTF-8";
 
 header {
-	text-align:center;
+	text-align:left;
 	background-color:#f1f1f1;
 	height:auto;
 	position:relative;
-	padding:0;
+	padding-left:10px;
 }
 #title{
 	font-size:72px;
