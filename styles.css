@@ -4,6 +4,7 @@ header {
 	text-align:center;
 	background-color:#f1f1f1;
 	height:10%;
+	position:relative;
 }
 #title{
 	font-size:72px;
@@ -19,6 +20,7 @@ ul {
 	background-color: #f1f1f1;
 	height: auto;
 	overflow: hidden;
+	top:0;
 }
 li a { 
     float: left;
