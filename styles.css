@@ -33,7 +33,9 @@ section {
 
 }
 #title{
-	font-size: 72px;	
+	font-size: 72px;
+	float:left;
+	padding-left:22px;
 }
 #block{
 	height:1000px;
