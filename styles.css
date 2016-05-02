@@ -1,43 +1,9 @@
 @CHARSET "UTF-8";
 
 body{
-
 background-color:gray;
-
-
- 
-}
-header{
-height: 10%;
-}
-div{
-	position:relative;
-
-}
-	
-img{
-display: block;
-
-width: 10%;
-position: absolute;
-top:10%;
-right:10%;
-
 }
 
-#headerpic{
-
-width: 40%;
-top: 0;
-left:0;
-}	
-
-
-#topMenu{
-
-}
-
-/*menu frame ,background, get rid of list bullets*/
 ul {
 	list-style-type: none;
 	margin-top: 15%;
@@ -51,7 +17,7 @@ ul {
 	display: inline-block;
 
 }
-/*menu spacing/styling*/
+
 li a { 
     float: left;
     color: #000;
