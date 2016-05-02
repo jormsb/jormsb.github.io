@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+
+body{
+
+background-color:white;
+color:black;
+
+ 
+}
+header{
+height: 10%;
+}
+
+	
+img{
+display: block;
+
+width: 10%;
+position: absolute;
+top:10%;
+right:10%;
+
+}
+
+#headerpic{
+
+width: 40%;
+top: 0;
+left:0;
+}	
+
+
+#topMenu{
+
+}
+
+/*menu frame ,background, get rid of list bullets*/
+ul {
+    list-style-type: none;
+    margin-top: 15%;
+    padding: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+	position: relative;
+    height: auto;
+    overflow: auto;
+	display: inline-block;
+
+}
+/*menu spacing/styling*/
+li a { 
+
+	float: left;
+
+    color: #000;
+    padding: 8px;
+
+    text-decoration: none;
+	margin-left: 5%;
+
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
