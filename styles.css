@@ -10,8 +10,8 @@ header {
 #title{
 	font-size:72px;
 }
-.twitter-timeline{
-position:absolute;
+twitter-timeline{
+position:fixed;
 right:0;
 }
 nav {
