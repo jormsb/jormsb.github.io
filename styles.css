@@ -23,7 +23,7 @@ header {
 }
 nav 	{
 	position:relative;
-	height:30px;
+
 }
 
 footer {
@@ -39,6 +39,7 @@ ul {
 	overflow: hidden;
 	background-color: grey;
 	width: 100%;
+	height:30px;
 }
 
 li {
