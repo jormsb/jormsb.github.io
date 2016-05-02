@@ -11,11 +11,11 @@ header {
 	font-size:72px;
 }
 twitter-timeline{
-position:fixed;
-margin-left:50%;
+position:absolute;
+right:0;
 }
 iframe{
-	margin-left:50%;
+	margin-left:10%;
 }
 main {
 	background-color:black;
