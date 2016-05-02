@@ -41,6 +41,7 @@ section {
 iframe{
 	position:absolute;
 	margin-left:25%;
+	max-width:40%;
 
 }
 
