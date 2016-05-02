@@ -40,7 +40,7 @@ section {
 
 iframe{
 	disaply:inline-block;
-
+	autoplay=0;
 
 }
 
