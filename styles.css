@@ -29,6 +29,7 @@ ul {
 	height: auto;
 	overflow: hidden;
 	top:0;
+	position:relative;
 }
 li a { 
     float: left;
