@@ -10,7 +10,7 @@ header {
 }
 twitter-timeline{
 position:absolute;
-	align:right;
+right:0;
 }
 iframe{
 position:absolute;
