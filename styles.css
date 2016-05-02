@@ -36,13 +36,13 @@ footer {
 ul {
 	list-style-type: none;
 	margin: 0;
-
 	overflow: hidden;
 	background-color: grey;
 	width: 100%;
 }
 
 li {
+	font-size 18px;
 	float: left;
 	margin-left:25%;
 	padding-left: 10px;
