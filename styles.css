@@ -1,11 +1,12 @@
 @CHARSET "UTF-8";
-
-body{
-
+#title{
+font-size: 72px;	
+}
+.body{
 background-color:gray;
 }
 
-ul {
+.ul {
 	list-style-type: none;
 	margin-top: 15%;
 	padding: 0;
@@ -14,7 +15,7 @@ ul {
 	overflow: hidden;
 }
 
-li a { 
+.li a { 
     float: left;
     color: #000;
     padding: 8px;
@@ -22,12 +23,12 @@ li a {
     margin-left:5%;
 }
 
-li a.active {
+.li a.active {
     background-color: #4CAF50;
     color: white;
 }
 
-li a:hover:not(.active) {
+.li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
