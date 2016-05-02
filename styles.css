@@ -10,9 +10,9 @@ background-color:gray;
 header{
 height: 10%;
 }
-iframe{
-	position:absolute;
-	margin-top: 15%;
+nav{
+	position:relative;
+
 }
 	
 img{
