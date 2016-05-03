@@ -44,7 +44,7 @@ section {
 
 }
 
-iframe{
+iframe,h1{
 	position:absolute;
 	margin-left:25%;
 	max-width:40%;
