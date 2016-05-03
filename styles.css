@@ -47,12 +47,14 @@ iframe{
 	position:absolute;
 	margin-left:25%;
 	padding-top:10px;
+	width-max:50%;
 
 }
 video{
 	position:absolute;
 	margin-left:25%;
 	padding-top:10px;
+	width-max:50%;
 }
 h1{
 	font-size: 72px;
