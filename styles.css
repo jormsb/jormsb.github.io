@@ -62,16 +62,15 @@ section {
 }
 iframe{
 	position:absolute;
-	margin-left:5%;
+	margin-left:155%;
 	padding-top:10px;
 	max-width:50%;
 
 }
 video{
 	position:absolute;
-	margin-left:5%;
+	margin-left:15%;
 	padding-top:10px;
-
 	max-width:50%;
 }
 h1{
