@@ -10,7 +10,9 @@ body{
 	font-size: 14px;
 	background-color:#cdcdcd;
 }
-main{
+#news{
+	margin-left:10%;
+	max-width:50%;
 
 }
 p{
