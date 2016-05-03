@@ -10,7 +10,11 @@ body{
 	font-size: 12px;
 	background-color:#cdcdcd;
 }
-
+p{
+	width:50%;
+	margin-left:10%;
+	max-width:50%;
+}
 header {
 	width:100%;
 	height:120px;
