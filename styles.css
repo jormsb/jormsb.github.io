@@ -12,8 +12,9 @@ body{
 }
 p{
 	width:50%;
-	margin-left:10%;
+	margin-left:2%;
 	max-width:50%;
+	background:white;
 }
 header {
 	width:100%;
