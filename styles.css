@@ -22,7 +22,7 @@ p{
 	
 }
 img{
-	max-width:50%;
+	max-width:25%;
 	float:left;
 	margin-left:2%;
 	border: 1px solid black;
@@ -64,7 +64,7 @@ iframe{
 	position:relative;
 	margin-left:20%;
 	padding-top:10px;
-	max-width:50%;
+	max-width:25%;
 
 }
 video{
