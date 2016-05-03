@@ -43,7 +43,8 @@ nav 	{
 }
 
 section {
-	padding: 10%;
+	padding-left: 10%;
+	padding-right: 10%;
 
 }
 #title{
