@@ -54,6 +54,7 @@ video{
 	position:absolute;
 	margin-left:25%;
 	padding-top:10px;
+	padding-right:10px;
 	max-width:50%;
 }
 h1{
