@@ -44,9 +44,15 @@ section {
 
 }
 
-iframe,h1{
+iframe{
 	position:absolute;
 	margin-left:25%;
+
+	padding-top:10px;
+}
+h1{
+	position:absolute;
+	margin-left:10%;
 	max-width:40%;
 	padding-top:10px;
 }
